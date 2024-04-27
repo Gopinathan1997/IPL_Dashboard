@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.opponent {
+  display: flex;
+  flex-direction: column;
+}
+.opponent-logo {
+  height: 70px;
+  width: 70px;
+}

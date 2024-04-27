@@ -1,0 +1,56 @@
+
+.bg-container {
+  height: 300vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+.RCB {
+  background-color: red;
+  min-height: 200vh;
+}
+.CSK {
+  background-color: yellow;
+}
+.KXP {
+  background-clip: rgb(140, 1, 1);
+}
+.KKR {
+  background-color: purple;
+}
+.MI {
+  background-color: blue;
+}
+.SRH {
+  background-color: orange;
+}
+.DC {
+  background-color: skyblue;
+}
+.RR {
+  background-color: Pink;
+}
+.banner {
+  height: 40vh;
+  width: 90vw;
+}
+p {
+  color: white;
+}
+* {
+  color: white;
+}
+.arrange {
+  height: 30vh;
+  width: 80vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  height: 50vh;
+  flex-wrap: wrap;
+}

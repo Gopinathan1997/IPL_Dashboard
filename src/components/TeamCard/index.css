@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.team-logo {
+  height: 90px;
+  width: 90px;
+}
+.container {
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  border-radius: 15px;
+}
